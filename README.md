@@ -40,4 +40,5 @@ It uses a hybrid Deep Learning architecture combining GRU (Gated Recurrent Units
   User Accounts & History – Track long-term respiratory health trends
 
 🎯 Mission
+
   CARE is designed to assist healthcare professionals and individuals in early detection of respiratory disorders, helping enable timely medical intervention and better patient outcomes.
