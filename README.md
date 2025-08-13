@@ -23,6 +23,7 @@ It uses a hybrid Deep Learning architecture combining GRU (Gated Recurrent Units
  Flask-based web app for audio upload, processing, and displaying predictions with confidence scores
 
 🚀 Planned Features
+
 Smart Audio Validation – Rejects non-lung sound files automatically
 
 Drag & Drop Uploads – Faster, user-friendly file input
