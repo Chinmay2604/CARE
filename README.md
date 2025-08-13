@@ -23,10 +23,13 @@ It uses a hybrid Deep Learning architecture combining GRU (Gated Recurrent Units
  Flask-based web app for audio upload, processing, and displaying predictions with confidence scores
 
 🚀 Planned Features
-*Smart Audio Validation – Rejects non-lung sound files automatically
-*Drag & Drop Uploads – Faster, user-friendly file input
-*Condition Insights – Detailed information and preventive measures based on predictions
-*User Accounts & History – Track long-term respiratory health trends
+Smart Audio Validation – Rejects non-lung sound files automatically
+
+Drag & Drop Uploads – Faster, user-friendly file input
+
+Condition Insights – Detailed information and preventive measures based on predictions
+
+User Accounts & History – Track long-term respiratory health trends
 
 🎯 Mission
 CARE is designed to assist healthcare professionals and individuals in early detection of respiratory disorders, helping enable timely medical intervention and better patient outcomes.
