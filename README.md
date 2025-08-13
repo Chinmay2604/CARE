@@ -4,16 +4,21 @@ CARE is an intelligent diagnostic system that analyzes lung sound recordings to 
 It uses a hybrid Deep Learning architecture combining GRU (Gated Recurrent Units) and CNN (Convolutional Neural Networks) to capture both temporal and spectral features of respiratory sounds for accurate predictions.
 
 🔄 Project Workflow
+
 1.Audio Preprocessing
  Load .wav recordings
  Normalize audio
  Validate file format and integrity
+
 2.Feature Extraction
  Apply MFCC (Mel-Frequency Cepstral Coefficients) to represent unique lung sound patterns
+ 
 3.Model Training
  Train a GRU + CNN hybrid model using publicly available respiratory sound datasets
+ 
 4.Model Saving
  Store trained models in .keras format for easy deployment
+ 
 5.Web Interface
  Flask-based web app for audio upload, processing, and displaying predictions with confidence scores
 
