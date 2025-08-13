@@ -6,6 +6,7 @@ It uses a hybrid Deep Learning architecture combining GRU (Gated Recurrent Units
 🔄 Project Workflow
 
 1.Audio Preprocessing
+ 
  Load .wav recordings
  
  Normalize audio
